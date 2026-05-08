@@ -1,0 +1,1 @@
+# currying_partial_application_tasks
